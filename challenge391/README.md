@@ -5,4 +5,5 @@ Given a positive whole number, find the smallest palindrome greater than the giv
 nextpal(808) => 818
 nextpal(999) => 1001
 nextpal(2133) => 2222
+
 For large inputs, your solution must be much more efficient than incrementing and checking each subsequent number to see if it's a palindrome. Find nextpal(339) before posting your solution. Depending on your programming language, it should take a fraction of a second.
